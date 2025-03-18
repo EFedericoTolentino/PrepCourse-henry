@@ -1,2 +1,2 @@
 # PrepCourse-henry
-Este es un repositorio de prueba del PrepCourse 2 de Henry
+Federico Tolentino. Prueba clonando un repositorio desde github a mi repo local
